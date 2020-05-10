@@ -1,0 +1,19 @@
+{
+  "name": "clickygame-hw",
+  "version": "1.0.0",
+  "description": "HW 15",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OAbbasi522/ClickyGame-HW.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OAbbasi522/ClickyGame-HW/issues"
+  },
+  "homepage": "https://github.com/OAbbasi522/ClickyGame-HW#readme"
+}
